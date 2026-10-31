@@ -16,6 +16,7 @@ To update go to settings > about > updates  OR run:
 ,in your terminal.
 
   *UNINSTALL*
+  
 TO unistall run
 
     dusk-uninstall
