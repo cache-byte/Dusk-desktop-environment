@@ -1,6 +1,6 @@
- ⚠DUSK IS WRITTEN BY AN AI (Claude, by Anthropic).
+ !!⚠DUSK IS WRITTEN BY AN AI (Claude, by Anthropic).
  IT MAY HAVE BUGS, CRASH, OR BREAK THINGS ON YOUR COMPUTER.
- USE IT AT YOUR OWN RISK. KEEP ANOTHER DESKTOP INSTALLED.
+ USE IT AT YOUR OWN RISK. KEEP ANOTHER DESKTOP INSTALLED!!
 
   
   *INSTALL*
@@ -27,7 +27,8 @@ To unistall run
     dusk-uninstall
 ,in your terminal.
 
-  *SCREENSHOTS*  Wallpapers not included in the DE
+  *SCREENSHOTS*  
+  !!Wallpapers not included in the DE!!
 
 <img width="1920" height="1080" alt="Screenshot from 2026-11-02 14-31-40" src="https://github.com/user-attachments/assets/bae1a94e-3c88-47a3-a6c0-714bd8713021" />
 <img width="1920" height="1080" alt="Screenshot from 2026-11-02 14-31-28" src="https://github.com/user-attachments/assets/d58d08d4-4a4d-4f12-adcd-153eecfefa0d" />
