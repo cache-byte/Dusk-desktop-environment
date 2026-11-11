@@ -6,7 +6,7 @@ Run this command in terminal to install:
 		
  *UNISTALL AND UPDATE*
  
-Both are don't in the settings app or by running:
+Both are done in the settings app or by running:
 
     nova-update
 and
